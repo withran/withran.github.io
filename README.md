@@ -7,8 +7,7 @@
 
 ---
 
-
-Welcome to my personal website. I use this space to share my learning journey and reflections on the books I read.
+This is a place you will find some of my stuff; maybe this will be the only thing to prove that I have been here before. 
 
 ---
 
