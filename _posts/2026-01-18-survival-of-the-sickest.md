@@ -10,7 +10,7 @@ categories: [books]
 
 ![Survival of the Sickest Book Cover](https://sites.nd.edu/alison-tessitore/files/2019/12/41THPO0uYCL._SX329_BO1204203200_.jpg)
 
-I finished *Survival of the Sickest* today.  As someone who works in drug development, I usually view disease as a "failure" of the system. This book makes me realize that sometimes, the "failure" is actually a feature.
+I finished *Survival of the Sickest* by Sharon Moalem.  As someone who works in drug development, I usually view disease as a "failure" of the system. This book makes me realize that sometimes, the "failure" is actually a feature.
 
 ### 1. The Logic of Bloodletting
 This part finally clicked for me. I always thought bloodletting was just ancient medical nonsense. But the "ironing it out" section explained the trade-off. 
@@ -30,6 +30,7 @@ It’s funny to think we are "using" plants. It’s the other way around. Plants
 
 It’s not just "food"—it’s a sophisticated biological interaction.
 
-
+### 4. Action Items
+Read more from Sharon Moalem: [official book list](http://sharonmoalem.com/books/)
 
 ---
