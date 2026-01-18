@@ -15,7 +15,7 @@ Welcome to my personal website. I use this space to share my learning journey an
 ### 🫥[Read More About Me](/about/) 
 This is a boring introduction, but maybe better than nothing.
 
-### 📖 [Book Reviews](/books/)
+### 📖 [All Kinds of Reviews](/books/)
 Summaries and personal ratings of the books I've finished.
 
 ### 📝 [Personal Blog](/blog/)
