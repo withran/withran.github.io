@@ -1,5 +1,8 @@
-title: "Ran Liao"
+title: "Ran Liao | Personal Website"
 logo: /assets/github_withran_pic.jpeg
+description: Official personal website of Ran Liao. Explore my projects and professional work.
+url: "https://withran.github.io"
+author: Ran Liao
 theme: jekyll-theme-minimal
 description: "Always need a cup of coffee"
 include:
