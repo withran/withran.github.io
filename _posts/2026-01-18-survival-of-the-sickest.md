@@ -2,6 +2,7 @@
 layout: post
 title: "Notes: Survival of the Sickest"
 categories: [books]
+tags: [evolution, biology]
 ---
 
 # Notes on Evolution and Survival
