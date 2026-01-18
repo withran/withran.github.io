@@ -1,20 +1,28 @@
 title: "Ran Liao | Personal Website"
 logo: /assets/github_withran_pic.jpeg
-description: Official personal website of Ran Liao. Explore my projects and professional work.
+description: "Statistician in drug development. Always need a cup of coffee."
 url: "https://withran.github.io"
 author: Ran Liao
 theme: jekyll-theme-minimal
-description: "Always need a cup of coffee"
+
+# This creates the navigation menu at the top
+header_pages:
+  - about.md
+  - books.md
+  - blog.md
+
 include:
   - _includes/head-custom.html
 
-# Optional links shown below your picture
-show_downloads: true
+# Optional links
+show_downloads: false # Set to false to hide the "Download .zip" buttons
 github:
-  is_project_page: true
-  owner_url: https://github.com/topran
+  is_project_page: false
+  repository_url: https://github.com/withran/withran.github.io
+  owner_url: https://github.com/withran
   owner_name: Ran Liao
+
 social_links:
-  - { platform: "linkedin",  user_url: "https://www.linkedin.com/in/ran-liao-7b629298/" }
+  - { platform: "linkedin", user_url: "https://www.linkedin.com/in/ran-liao-7b629298/" }
   - { platform: "google-scholar", user_url: "https://scholar.google.com/citations?user=0c3orOgAAAAJ&hl=en" }
-  - { platform: "github", user_url: "https://github.com/topran" }
+  - { platform: "github", user_url: "https://github.com/withran" }
