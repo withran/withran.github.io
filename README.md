@@ -12,16 +12,11 @@ Welcome to my personal website. I use this space to share my learning journey an
 
 ---
 
+## [Read More About Me](/about/) 👈
+
 ### 📖 [Book Reviews](/books/)
-Detailed summaries and personal ratings of the books I've finished.
+Summaries and personal ratings of the books I've finished.
 
 ### 📝 [Personal Blog](/blog/)
-Daily thoughts, learning logs, and life updates.
-
----
-
-## About Me
-I am **Ran Liao**. I created this site to document my growth and share knowledge with others. 
-
-[GitHub](https://github.com/withran) | [LinkedIn](#)
+Daily thoughts, learning logs, and reflections on drug development.
 
