@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://topran.github.io/withran.github.io/sitemap.xml
+Sitemap: https://withran.github.io/sitemap.xml
