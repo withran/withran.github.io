@@ -8,6 +8,8 @@ categories: [books]
 **Date:** Jan 17, 2026  
 **Mind Status:** Blown.
 
+![Survival of the Sickest Book Cover](https://sites.nd.edu/alison-tessitore/files/2019/12/41THPO0uYCL._SX329_BO1204203200_.jpg)
+
 I finished *Survival of the Sickest* today.  As someone who works in drug development, I usually view disease as a "failure" of the system. This book makes me realize that sometimes, the "failure" is actually a feature.
 
 ### 1. The Logic of Bloodletting
